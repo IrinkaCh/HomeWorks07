@@ -1,0 +1,15 @@
+C:\Users\123ir\Desktop\Учёба\HomeWorks07\HomeWorks07\Task50FindNumberInArray\bin\Debug\net6.0\Task50FindNumberInArray.exe
+C:\Users\123ir\Desktop\Учёба\HomeWorks07\HomeWorks07\Task50FindNumberInArray\bin\Debug\net6.0\Task50FindNumberInArray.deps.json
+C:\Users\123ir\Desktop\Учёба\HomeWorks07\HomeWorks07\Task50FindNumberInArray\bin\Debug\net6.0\Task50FindNumberInArray.runtimeconfig.json
+C:\Users\123ir\Desktop\Учёба\HomeWorks07\HomeWorks07\Task50FindNumberInArray\bin\Debug\net6.0\Task50FindNumberInArray.dll
+C:\Users\123ir\Desktop\Учёба\HomeWorks07\HomeWorks07\Task50FindNumberInArray\bin\Debug\net6.0\Task50FindNumberInArray.pdb
+C:\Users\123ir\Desktop\Учёба\HomeWorks07\HomeWorks07\Task50FindNumberInArray\obj\Debug\net6.0\Task50FindNumberInArray.csproj.AssemblyReference.cache
+C:\Users\123ir\Desktop\Учёба\HomeWorks07\HomeWorks07\Task50FindNumberInArray\obj\Debug\net6.0\Task50FindNumberInArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123ir\Desktop\Учёба\HomeWorks07\HomeWorks07\Task50FindNumberInArray\obj\Debug\net6.0\Task50FindNumberInArray.AssemblyInfoInputs.cache
+C:\Users\123ir\Desktop\Учёба\HomeWorks07\HomeWorks07\Task50FindNumberInArray\obj\Debug\net6.0\Task50FindNumberInArray.AssemblyInfo.cs
+C:\Users\123ir\Desktop\Учёба\HomeWorks07\HomeWorks07\Task50FindNumberInArray\obj\Debug\net6.0\Task50FindNumberInArray.csproj.CoreCompileInputs.cache
+C:\Users\123ir\Desktop\Учёба\HomeWorks07\HomeWorks07\Task50FindNumberInArray\obj\Debug\net6.0\Task50FindNumberInArray.dll
+C:\Users\123ir\Desktop\Учёба\HomeWorks07\HomeWorks07\Task50FindNumberInArray\obj\Debug\net6.0\refint\Task50FindNumberInArray.dll
+C:\Users\123ir\Desktop\Учёба\HomeWorks07\HomeWorks07\Task50FindNumberInArray\obj\Debug\net6.0\Task50FindNumberInArray.pdb
+C:\Users\123ir\Desktop\Учёба\HomeWorks07\HomeWorks07\Task50FindNumberInArray\obj\Debug\net6.0\Task50FindNumberInArray.genruntimeconfig.cache
+C:\Users\123ir\Desktop\Учёба\HomeWorks07\HomeWorks07\Task50FindNumberInArray\obj\Debug\net6.0\ref\Task50FindNumberInArray.dll
