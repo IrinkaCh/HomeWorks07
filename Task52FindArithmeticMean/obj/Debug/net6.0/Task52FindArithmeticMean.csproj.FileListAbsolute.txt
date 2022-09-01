@@ -1,0 +1,15 @@
+C:\Users\123ir\Desktop\Учёба\HomeWorks07\HomeWorks07\Task52FindArithmeticMean\obj\Debug\net6.0\Task52FindArithmeticMean.csproj.AssemblyReference.cache
+C:\Users\123ir\Desktop\Учёба\HomeWorks07\HomeWorks07\Task52FindArithmeticMean\obj\Debug\net6.0\Task52FindArithmeticMean.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123ir\Desktop\Учёба\HomeWorks07\HomeWorks07\Task52FindArithmeticMean\obj\Debug\net6.0\Task52FindArithmeticMean.AssemblyInfoInputs.cache
+C:\Users\123ir\Desktop\Учёба\HomeWorks07\HomeWorks07\Task52FindArithmeticMean\obj\Debug\net6.0\Task52FindArithmeticMean.AssemblyInfo.cs
+C:\Users\123ir\Desktop\Учёба\HomeWorks07\HomeWorks07\Task52FindArithmeticMean\obj\Debug\net6.0\Task52FindArithmeticMean.csproj.CoreCompileInputs.cache
+C:\Users\123ir\Desktop\Учёба\HomeWorks07\HomeWorks07\Task52FindArithmeticMean\bin\Debug\net6.0\Task52FindArithmeticMean.exe
+C:\Users\123ir\Desktop\Учёба\HomeWorks07\HomeWorks07\Task52FindArithmeticMean\bin\Debug\net6.0\Task52FindArithmeticMean.deps.json
+C:\Users\123ir\Desktop\Учёба\HomeWorks07\HomeWorks07\Task52FindArithmeticMean\bin\Debug\net6.0\Task52FindArithmeticMean.runtimeconfig.json
+C:\Users\123ir\Desktop\Учёба\HomeWorks07\HomeWorks07\Task52FindArithmeticMean\bin\Debug\net6.0\Task52FindArithmeticMean.dll
+C:\Users\123ir\Desktop\Учёба\HomeWorks07\HomeWorks07\Task52FindArithmeticMean\bin\Debug\net6.0\Task52FindArithmeticMean.pdb
+C:\Users\123ir\Desktop\Учёба\HomeWorks07\HomeWorks07\Task52FindArithmeticMean\obj\Debug\net6.0\Task52FindArithmeticMean.dll
+C:\Users\123ir\Desktop\Учёба\HomeWorks07\HomeWorks07\Task52FindArithmeticMean\obj\Debug\net6.0\refint\Task52FindArithmeticMean.dll
+C:\Users\123ir\Desktop\Учёба\HomeWorks07\HomeWorks07\Task52FindArithmeticMean\obj\Debug\net6.0\Task52FindArithmeticMean.pdb
+C:\Users\123ir\Desktop\Учёба\HomeWorks07\HomeWorks07\Task52FindArithmeticMean\obj\Debug\net6.0\Task52FindArithmeticMean.genruntimeconfig.cache
+C:\Users\123ir\Desktop\Учёба\HomeWorks07\HomeWorks07\Task52FindArithmeticMean\obj\Debug\net6.0\ref\Task52FindArithmeticMean.dll
