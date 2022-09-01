@@ -1,0 +1,15 @@
+C:\Users\123ir\Desktop\Учёба\HomeWorks07\HomeWorks07\Task47AddDoubleArray\bin\Debug\net6.0\Task47AddDoubleArray.exe
+C:\Users\123ir\Desktop\Учёба\HomeWorks07\HomeWorks07\Task47AddDoubleArray\bin\Debug\net6.0\Task47AddDoubleArray.deps.json
+C:\Users\123ir\Desktop\Учёба\HomeWorks07\HomeWorks07\Task47AddDoubleArray\bin\Debug\net6.0\Task47AddDoubleArray.runtimeconfig.json
+C:\Users\123ir\Desktop\Учёба\HomeWorks07\HomeWorks07\Task47AddDoubleArray\bin\Debug\net6.0\Task47AddDoubleArray.dll
+C:\Users\123ir\Desktop\Учёба\HomeWorks07\HomeWorks07\Task47AddDoubleArray\bin\Debug\net6.0\Task47AddDoubleArray.pdb
+C:\Users\123ir\Desktop\Учёба\HomeWorks07\HomeWorks07\Task47AddDoubleArray\obj\Debug\net6.0\Task47AddDoubleArray.csproj.AssemblyReference.cache
+C:\Users\123ir\Desktop\Учёба\HomeWorks07\HomeWorks07\Task47AddDoubleArray\obj\Debug\net6.0\Task47AddDoubleArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123ir\Desktop\Учёба\HomeWorks07\HomeWorks07\Task47AddDoubleArray\obj\Debug\net6.0\Task47AddDoubleArray.AssemblyInfoInputs.cache
+C:\Users\123ir\Desktop\Учёба\HomeWorks07\HomeWorks07\Task47AddDoubleArray\obj\Debug\net6.0\Task47AddDoubleArray.AssemblyInfo.cs
+C:\Users\123ir\Desktop\Учёба\HomeWorks07\HomeWorks07\Task47AddDoubleArray\obj\Debug\net6.0\Task47AddDoubleArray.csproj.CoreCompileInputs.cache
+C:\Users\123ir\Desktop\Учёба\HomeWorks07\HomeWorks07\Task47AddDoubleArray\obj\Debug\net6.0\Task47AddDoubleArray.dll
+C:\Users\123ir\Desktop\Учёба\HomeWorks07\HomeWorks07\Task47AddDoubleArray\obj\Debug\net6.0\refint\Task47AddDoubleArray.dll
+C:\Users\123ir\Desktop\Учёба\HomeWorks07\HomeWorks07\Task47AddDoubleArray\obj\Debug\net6.0\Task47AddDoubleArray.pdb
+C:\Users\123ir\Desktop\Учёба\HomeWorks07\HomeWorks07\Task47AddDoubleArray\obj\Debug\net6.0\Task47AddDoubleArray.genruntimeconfig.cache
+C:\Users\123ir\Desktop\Учёба\HomeWorks07\HomeWorks07\Task47AddDoubleArray\obj\Debug\net6.0\ref\Task47AddDoubleArray.dll
